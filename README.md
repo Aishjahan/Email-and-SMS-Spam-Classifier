@@ -2,6 +2,7 @@
 
 This project is a **Spam Classification** app built with **Streamlit** that classifies email or SMS messages as **Spam** or **Not Spam**. The classifier uses **Natural Language Processing (NLP)** techniques, including **TF-IDF Vectorization** and a **trained machine learning model** for prediction. 
 
+Live Link : (https://email-and-sms-spam-classifier-aishjahankhan.streamlit.app)
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
